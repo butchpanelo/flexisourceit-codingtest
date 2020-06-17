@@ -1,0 +1,6 @@
+# flexisourceit-codingtest
+
+JSON OUTPUT OF CLIENT FILES CAN BE DONE IN 2 WAYS.
+
+1. USING THE OPTION LIST
+2. VIA ROUTE /Clients/{ClientId}
